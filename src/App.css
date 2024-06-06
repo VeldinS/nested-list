@@ -1,0 +1,21 @@
+body {
+    font-family: Audiowide, cursive;
+}
+
+.app-content {
+    background-color: #FFFFFF;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.app-title {
+    color: #000000;
+    font-size: 32px;
+    margin-bottom: 24px;
+    letter-spacing: 2px;
+    text-align: center;
+    font-family: Audiowide, cursive;
+}
